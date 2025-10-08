@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# UNIO - Software con IA y Humanidad
 
-## Getting Started
+Landing page moderna para UNIO, una empresa de desarrollo de software con IA que combina tecnología de vanguardia con un enfoque profundamente humano.
 
-First, run the development server:
+## 🚀 Tecnologías
+
+- **Vue 3** - Framework progresivo de JavaScript
+- **TypeScript** - Tipado estático para JavaScript
+- **Vite** - Build tool ultrarrápido
+- **Tailwind CSS** - Framework de utilidades CSS
+- **Composition API** - API moderna de Vue 3
+
+## 📦 Instalación
 
 ```bash
+# Instalar dependencias
+npm install
+
+# Iniciar servidor de desarrollo
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# Compilar para producción
+npm run build
+
+# Vista previa de producción
+npm run preview
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎨 Características
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ✨ Diseño moderno y responsivo
+- 🎯 Animaciones suaves y transiciones
+- 📱 Mobile-first approach
+- ⚡ Rendimiento optimizado
+- 🎨 Paleta de colores personalizada
+- 🔧 Componentes reutilizables
+- 💪 TypeScript para type safety
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📁 Estructura del Proyecto
 
-## Learn More
+```
+src/
+├── components/         # Componentes Vue
+│   ├── Header.vue
+│   ├── Hero.vue
+│   ├── ValueProposition.vue
+│   ├── AIWithHumanity.vue
+│   ├── Services.vue
+│   ├── TechStack.vue
+│   ├── WhyChooseUs.vue
+│   ├── Testimonials.vue
+│   ├── FinalCTA.vue
+│   └── Footer.vue
+├── App.vue            # Componente principal
+├── main.ts            # Entry point
+└── style.css          # Estilos globales
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 🎨 Paleta de Colores
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Primary**: Azules (confianza, tecnología)
+- **Accent**: Naranjas (calidez, humanidad)
+- **Neutral**: Grises (elegancia, profesionalismo)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 Licencia
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+© 2025 UNIO. Todos los derechos reservados.
