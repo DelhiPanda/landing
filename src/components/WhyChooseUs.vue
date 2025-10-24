@@ -97,20 +97,20 @@
           <div class="bg-gradient-to-br from-primary-700 to-primary-800 rounded-3xl p-12 text-white shadow-2xl">
             <div class="text-center space-y-8">
               <div class="text-6xl mb-4">🏆</div>
-              <h3 class="text-3xl font-bold">Resultados que hablan</h3>
+              <h3 class="text-3xl font-bold">Calidad sobre cantidad</h3>
               
               <div class="grid grid-cols-2 gap-6 pt-8">
                 <div class="bg-white/20 backdrop-blur-sm rounded-2xl p-6">
-                  <div class="text-4xl font-bold mb-2">150+</div>
-                  <div class="text-sm opacity-90">Proyectos exitosos</div>
+                  <div class="text-4xl font-bold mb-2">4</div>
+                  <div class="text-sm opacity-90">Proyectos activos</div>
                 </div>
                 <div class="bg-white/20 backdrop-blur-sm rounded-2xl p-6">
-                  <div class="text-4xl font-bold mb-2">98%</div>
-                  <div class="text-sm opacity-90">Clientes satisfechos</div>
+                  <div class="text-4xl font-bold mb-2">100%</div>
+                  <div class="text-sm opacity-90">Con IA integrada</div>
                 </div>
                 <div class="bg-white/20 backdrop-blur-sm rounded-2xl p-6">
-                  <div class="text-4xl font-bold mb-2">5+</div>
-                  <div class="text-sm opacity-90">Años experiencia</div>
+                  <div class="text-4xl font-bold mb-2">∞</div>
+                  <div class="text-sm opacity-90">Enfoque en calidad</div>
                 </div>
                 <div class="bg-white/20 backdrop-blur-sm rounded-2xl p-6">
                   <div class="text-4xl font-bold mb-2">24/7</div>
@@ -120,10 +120,10 @@
 
               <div class="pt-8">
                 <p class="text-lg opacity-90 italic">
-                  "La mejor inversión que hemos hecho en tecnología. UNIO no solo entregó un 
-                  producto excepcional, sino que se convirtieron en nuestros partners de confianza."
+                  "UNIO nos sorprendió con su enfoque en calidad sobre cantidad. Cada proyecto 
+                  está diseñado con IA para maximizar el impacto y minimizar la complejidad."
                 </p>
-                <p class="text-sm mt-4 opacity-75">— CEO, Tech Startup</p>
+                <p class="text-sm mt-4 opacity-75">— Cliente, Proyecto Activo</p>
               </div>
             </div>
           </div>

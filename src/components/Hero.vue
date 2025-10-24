@@ -33,8 +33,8 @@
           <!-- Stats -->
           <div class="grid grid-cols-3 gap-6 pt-8">
             <div class="text-center">
-              <div class="text-3xl font-bold text-primary-700">150+</div>
-              <div class="text-sm text-neutral-600 mt-1">Proyectos</div>
+              <div class="text-3xl font-bold text-primary-700">+10 años</div>
+              <div class="text-sm text-neutral-600 mt-1">de experiencia en el mercado</div>
             </div>
             <div class="text-center">
               <div class="text-3xl font-bold text-primary-700">98%</div>
